@@ -20,6 +20,12 @@ Python · FastAPI · async / worker jobs · Docker · data stores as required by
 
 ---
 
+
+## Documentation
+
+Browse **[docs/](docs/)** for product guides, architecture notes, and design decisions (no source code).
+
+
 ## Collaborate
 
 Interested in **collaborating** (content, editorial, backend, UX, education partners, media)?
@@ -31,4 +37,3 @@ We welcome collaborators who care about clear, good-humoured public literacy and
 
 ---
 
-*Maintained by [Bazsonyi Tamás](https://github.com/erbnrabbit1987) · passion project / own initiatives*
